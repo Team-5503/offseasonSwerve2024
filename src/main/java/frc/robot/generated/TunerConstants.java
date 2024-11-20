@@ -1,4 +1,4 @@
-package frc.robot.constants;
+package frc.robot.generated;
 
 import com.ctre.phoenix6.configs.CANcoderConfiguration;
 import com.ctre.phoenix6.configs.CurrentLimitsConfigs;
